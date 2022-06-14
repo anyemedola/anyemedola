@@ -32,4 +32,7 @@ document.write(str);
   <a href = "mailto:anynhamedola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anyemedola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+    <h2>My Job is like</h2>
+<img align="center" alt="My-Job" src="https://vsgif.com/gif/1457767">
+ 
   ![Snake animation](https://github.com/anyemedola/anyemedola/blob/output/github-contribution-grid-snake.svg)
