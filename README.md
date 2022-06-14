@@ -4,7 +4,13 @@
 - 😎I Work with front-end and mobile development.
 - 🙌Taking SI classes.
 - 💕Currenctly using Ionic with Angular.JS!
-
+```js
+<script>
+var str = 'Mood: Working';
+var str = str.replace("Working", "Tired");
+document.write(str);
+</script>
+```
 ## Github Stats
 <div>
   <a href="https://github.com/anyemedola">
