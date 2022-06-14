@@ -1,9 +1,9 @@
-# Hello world!
+# Hello world! My name's Any and I'm 20yo.
 
 ## About me
-- 😎Hoje trabalho com front-end e desenvolvimento mobile com ionic e angular.js.
-- 🙌Estudando Sistemas de Informações.
-- 💕Apaixonada por tecnologia e programação!
+- 😎I Work with front-end and mobile development.
+- 🙌Taking SI classes.
+- 💕Currenctly using Ionic with Angular.JS!
 
 ## Github Stats
 <div>
@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyemedola&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyemedola&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-  <h2>Linguagens</h2>
+  <h2>Some skills</h2>
 <div style="display: inline_block">
   <img align="center" alt="Any-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Any-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
