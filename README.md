@@ -1,12 +1,15 @@
 ## Hello world!
-- 😎Hoje trabalho com front-end e desenvolvimento mobile com ionic e angular.js.
-- 🙌Estudando Sistemas de Informações.
-- 💕Apaixonada por tecnologia e programação!
+
 <div align="center">
   <a href="https://github.com/anyemedola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyemedola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyemedola&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+- 😎Hoje trabalho com front-end e desenvolvimento mobile com ionic e angular.js.
+- 🙌Estudando Sistemas de Informações.
+- 💕Apaixonada por tecnologia e programação!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
