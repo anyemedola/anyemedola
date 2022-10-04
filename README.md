@@ -16,7 +16,7 @@ document.write(str);
 <!-- ![My-Job](https://user-images.githubusercontent.com/61008693/173674471-e8f7d3ac-bd65-4cd2-9e87-d5f6850fb131.gif) -->
 ![My-Job](https://media.giphy.com/media/323UIZhE5QGojrNZG6/giphy.gif)
 
-## that github stats everyone have
+## my github stats
 <div>
   <a href="https://github.com/anyemedola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyemedola&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
