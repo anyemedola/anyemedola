@@ -2,18 +2,19 @@
 
 ## About me
 - 😎I Work with front-end and mobile development.
-- 🙌Taking SI classes.
-- 💕Currenctly using Ionic with Angular.JS!
+- 🙌Taking Information Systems classes.
+- 💕Currenctly using Ionic with React.JS!
 ```js
 <script>
 var str = 'Mood: Working';
-var str = str.replace("Working", "Tired");
+var str = str.replace("Working", "Focus");
 document.write(str);
 </script>
 ```
 
 ## My Job is like
-![My-Job](https://user-images.githubusercontent.com/61008693/173674471-e8f7d3ac-bd65-4cd2-9e87-d5f6850fb131.gif)
+<!-- ![My-Job](https://user-images.githubusercontent.com/61008693/173674471-e8f7d3ac-bd65-4cd2-9e87-d5f6850fb131.gif) -->
+![My-Job](https://media.giphy.com/media/323UIZhE5QGojrNZG6/giphy.gif)
 
 ## Github Stats
 <div>
