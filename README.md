@@ -3,7 +3,7 @@
 ## some stuffs going on my life right now 
 - 😎I Work with front-end and mobile development.
 - 🙌Taking Information Systems classes.
-- 💕Currenctly using Ionic with React.JS!
+- 💕Currenctly using Ionic with React.JS in a international project!
 ```js
 <script>
 var str = 'Mood: Working';
