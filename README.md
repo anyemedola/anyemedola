@@ -7,7 +7,7 @@
 ```js
 <script>
 var str = 'Mood: Working';
-var str = str.replace("Working", "Focus");
+var str = str.replace("Working", "Holidays 🎅🎄");
 document.write(str);
 </script>
 ```
