@@ -6,8 +6,8 @@
 - 💕Currenctly using Ionic with React.JS in a international project!
 ```js
 <script>
-var str = 'Mood: Working';
-var str = str.replace("Working", "Holidays 🎅🎄");
+var str = 'Mood: Focus';
+var str = str.replace("Focus", "2023 is ours 🍾");
 document.write(str);
 </script>
 ```
