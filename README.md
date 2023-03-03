@@ -2,7 +2,7 @@
 
 ## some stuffs going on my life right now 
 - 😎I Work with front-end and mobile development.
-- 🙌Taking Information Systems classes.
+<!-- - 🙌Taking Information Systems classes. -->
 - 💕Currenctly working with Ionic and React.JS in a international project!
 - 🇮🇹 Also learning Italian.
 ```js
