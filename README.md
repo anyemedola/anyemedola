@@ -4,7 +4,7 @@
 - 😎I Work with front-end and mobile development.
 <!-- - 🙌Taking Information Systems classes. -->
 - 💕Currenctly working with Ionic and React.JS in a international project!
-- 🇮🇹  Also learning Italian.
+- 🇮🇹 Also learning Italian.
 ```js
 <script>
 var str = 'Mood: Focus';
