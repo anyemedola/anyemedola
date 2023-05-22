@@ -5,21 +5,23 @@
 - 💕Currenctly working with React.JS and KendoUI at SIARL project (lisbon/pt)!
 - 🍋Also learning Italian and living in Sicily.
 <!-- - 🙌Taking Information Systems classes. -->
-```js
+
+<div style="display: flex, flex-direction: row">
+  ```js
 <script>
 var str = 'Mood: Focus';
 var str = str.replace("Focus", "2023 is ours 🍾");
 document.write(str);
 </script>
 ```
-
-## my mood these days
+  
+ ## my mood these days
 <!-- ![My-Job](https://user-images.githubusercontent.com/61008693/173674471-e8f7d3ac-bd65-4cd2-9e87-d5f6850fb131.gif) -->
 <!-- ![My-Job](https://media.giphy.com/media/323UIZhE5QGojrNZG6/giphy.gif) -->
 <!-- ![My-Job](https://user-images.githubusercontent.com/61008693/207576210-40ba34ac-96aa-43a3-8d68-dd18223259cf.gif) -->
 <!-- ![My-Job](https://user-images.githubusercontent.com/61008693/209569596-a05adfe6-f2b7-4cbd-ab8f-4d41a3ce7f3a.gif) -->
 ![My-Job](https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif)
-
+</div>
 
 
 ## my github stats
