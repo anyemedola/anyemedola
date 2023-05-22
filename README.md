@@ -2,8 +2,8 @@
 
 ## some stuffs going on my life right now 
 - 😎I Work with front-end and mobile development.
-- 💕Currenctly working with Ionic and React.JS in a international project!
-- 🇮🇹 Also learning Italian.
+- 💕Currenctly working with React.JS and KendoUI at SIARL project (lisbon/pt)!
+- 🍋Also learning Italian and living in Sicily.
 <!-- - 🙌Taking Information Systems classes. -->
 ```js
 <script>
