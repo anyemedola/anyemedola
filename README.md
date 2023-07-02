@@ -8,8 +8,8 @@ document.write(str);
 ```
 
 <!-- ## some stuffs going on my life right now 
-- 😎I Work with front-end and mobile development.
-- 💕Currenctly working with React.JS and KendoUI at SIARL project (lisbon/pt)!
+- 😎I Work with front-end web and mobile development(I do a little bit of backend too).
+- 💕Currenctly working as freelancer with ReactJS and React Native;
 - 🍋Also learning Italian and living in Sicily.
 - 🙌Taking Information Systems classes.-->
 
@@ -25,9 +25,10 @@ document.write(str);
   <h2>some stuffs going on my life right now </h1>
   <div>
     <ul>
-      <li>😎I Work with front-end and mobile development.</li>
-      <li>💕Currenctly working with React.JS and KendoUI at SIARL project (lisbon/pt)!</li>
-      <li>🍋Also learning Italian and living in Sicily.</li>
+      <li>😎I Work with front-end web and mobile development(I do a little bit of backend too);</li>
+      <li>💕Currenctly working as freelancer with ReactJS and React Native;</li>
+      <li>:spaghetti: Also learning Italian and living in Sicily.</li>
+      <li>🙌Taking Information Systems classes.</li>
     </ul>
 </div> 
     <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif">
