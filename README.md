@@ -9,7 +9,7 @@ document.write(str);
 
 <!-- ## some stuffs going on my life right now 
 - 😎I Work with front-end web and mobile development(I do a little bit of backend too).
-- 💕Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC;
+- 💕Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.
 - 🍋Also learning Italian and living in Sicily.
 - 🙌Taking Information Systems classes.-->
 
