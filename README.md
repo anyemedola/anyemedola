@@ -25,9 +25,8 @@ document.write(str);
   <h2>some stuffs going on my life right now </h1>
   <div>
     <ul>
-      <li>😎I Work with front-end web and mobile development(I do a little bit of backend too);</li>
-      <li>💕Currenctly working as freelancer with ReactJS and React Native;</li>
-      <li>:spaghetti: Also learning Italian and living in Sicily.</li>
+      <li>💕Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
+      <li>🍋 Also learning Italian and living in Sicily.</li>
       <li>🙌Taking Information Systems classes.</li>
     </ul>
 </div> 
