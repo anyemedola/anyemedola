@@ -25,9 +25,9 @@ document.write(str);
   <h2>some stuffs going on my life right now </h1>
   <div>
     <ul>
-      <li>💕Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
-      <li>🍋 Also learning Italian and living in Sicily.</li>
-      <li>🙌Taking Information Systems classes.</li>
+      <li>💕 Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
+      <li>🍀 Living in 5 languages.</li>
+      <li>🍋 A proud sicilian.</li>
     </ul>
 </div> 
     <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif">
