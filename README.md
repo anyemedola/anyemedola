@@ -2,7 +2,7 @@
   ```js
 <script>
 var str = 'Mood: Focus';
-var str = str.replace("Focus", "2023 is ours 🍾");
+var str = str.replace("Focus", "2024 is ours 🧠");
 document.write(str);
 </script>
 ```
