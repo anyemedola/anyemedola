@@ -1,4 +1,4 @@
-# Hello world! My name's Any and I'm 22yo.
+# Hello world! I am a 22yo girl named Any.
   ```js
 <script>
 var str = 'Mood: Focus';
@@ -26,6 +26,7 @@ document.write(str);
   <div>
     <ul>
       <li>💕 Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
+      <li>✨ Improving my frontend skills by doing styled components.</li>
       <li>🍀 Living in 5 languages.</li>
       <li>🍋 A proud sicilian.</li>
     </ul>
