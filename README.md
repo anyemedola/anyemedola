@@ -1,8 +1,8 @@
-# Hello world! I am a 22yo girl named Any.
+# Hello world!
   ```js
 <script>
-var str = 'Mood: Focus';
-var str = str.replace("Focus", "2024 is ours 🧠");
+var str = 'About me: Any Medola';
+var str = str.replace("Any Medola", "I am a 22yo girl named Any.");
 document.write(str);
 </script>
 ```
