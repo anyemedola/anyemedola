@@ -22,7 +22,7 @@ document.write(str);
 
   
   <div style="display: inline_block"> 
-  <h2>some stuffs going on my life right now </h1>
+  <h2>A little background about my life right now</h2>
   <div>
     <ul>
       <li>💕 Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
