@@ -60,7 +60,8 @@ document.write(str);
   <img align="center" alt="Any-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Any-eslint" height="30" width="40" src="https://devicon-website.vercel.app/api/eslint/original.svg">
   <img align="center" alt="Any-swift" height="30" width="40" src="https://devicon-website.vercel.app/api/swift/original.svg">
-  <img align="center" alt="Any-gitlab" height="30" width="40" src="https://devicon-website.vercel.app/api/gitlab/original.svg"></img>
+  <img align="center" alt="Any-gitlab" height="30" width="40" src="https://devicon-website.vercel.app/api/gitlab/original.svg">
+  <img align="center" alt="Any-gitlab" src="https://devicon-website.vercel.app/api/nextjs/original.svg">
 </div>
   <h2>contact me</h2>
   <a href="https://instagram.com/anyemedola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
