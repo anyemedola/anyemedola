@@ -2,7 +2,7 @@
   ```js
 <script>
 var str = 'About me: Any Medola';
-var str = str.replace("Any Medola", "I am a 23yo girl named Any.");
+var str = str.replace("Any Medola", "I am a 24yo girl named Any.");
 document.write(str);
 </script>
 ```
