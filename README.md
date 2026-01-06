@@ -32,7 +32,8 @@ document.write(str);
       <li>🍋 A proud sicilian.</li>
     </ul>
 </div> 
-    <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif">
+    <img src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif">
+    <!-- <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif"> -->
 </div>
 
 <!-- ## my github stats
