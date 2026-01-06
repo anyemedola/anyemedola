@@ -1,8 +1,8 @@
 # Hello world!
   ```js
 <script>
-var str = 'About me: Any Medola';
-var str = str.replace("Any Medola", "I am a 24yo girl named Any.");
+var str = 'Occupation: Traveler';
+var str = str.replace("Traveler", "Frontend and mobile developer");
 document.write(str);
 </script>
 ```
