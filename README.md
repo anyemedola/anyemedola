@@ -28,8 +28,8 @@ document.write(str);
       <li>💕 Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
       <li>🌈 Turns out I'm a terrific designer and everyone ask me to do Figma too.</li>
       <li>✨ Improving my frontend skills by doing styled components.</li>
-      <li>🍀 Living in 5 languages.</li>
-      <li>🍋 A proud sicilian.</li>
+      <li>🍋 A proud half brazilian half sicilian.</li>
+      <li>🍀 Living in 6 languages.</li>
     </ul>
 </div> 
     <img src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif">
