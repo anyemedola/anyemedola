@@ -2,7 +2,7 @@
   ```js
 <script>
 var str = 'Occupation: Traveler';
-var str = str.replace("Traveler", "Frontend web and mobile developer");
+var str = str.replace("Traveler", "Full Stack Engineer");
 document.write(str);
 </script>
 ```
