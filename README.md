@@ -25,10 +25,10 @@ document.write(str);
   <h2>A little background about my life right now</h2>
   <div>
     <ul>
-      <li>💕 Currenctly working as Senior Frontend Developer at Capgemini with ReactJS and WebRTC.</li>
+      <li>💕 Currenctly working as Full Stack Engineer at MIGMA with ReactJS and NodeJS.</li>
       <li>🌈 Turns out I'm a terrific designer and everyone ask me to do Figma too.</li>
       <li>✨ Improving my frontend skills by doing styled components.</li>
-      <li>🍋 A proud half brazilian half sicilian.</li>
+      <li>🍋 Brazil made me. Sicily recognized me.</li>
       <li>🍀 Living in 6 languages.</li>
     </ul>
 </div> 
